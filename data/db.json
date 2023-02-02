@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": 0.46025580791658616,
+      "title": "Limpar a cozinha",
+      "time": "1",
+      "done": true
+    },
+    {
+      "id": 0.4446282606515458,
+      "title": "Trabalhar",
+      "time": "8",
+      "done": false
+    },
+    {
+      "id": 0.2771478688490111,
+      "title": "Estudar",
+      "time": "2",
+      "done": true
+    }
+  ]
+}
